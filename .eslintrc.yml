@@ -4,4 +4,4 @@ plugins:
   - import
   - prettier
 parserOptions:
-  project: ./tsconfig.eslint.json
+  project: ./tsconfig.eslint.yml
