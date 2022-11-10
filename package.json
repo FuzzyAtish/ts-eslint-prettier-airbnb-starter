@@ -1,0 +1,20 @@
+{
+  "name": "ts-eslint-prettier-airbnb-starter",
+  "version": "1.0.0",
+  "description": "A TypeScript + ESLint + Prettier + AirBNB starter project scaffold",
+  "type": "module",
+  "scripts": {
+    "start": "ts-node --experimental-specifier-resolution=node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuzzyAtish/ts-eslint-prettier-airbnb-starter.git"
+  },
+  "keywords": ["typescript", "ts", "node", "nodejs", "eslint", "prettier", "airbnb", "starter", "scaffold"],
+  "author": "FuzzyAtish",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FuzzyAtish/ts-eslint-prettier-airbnb-starter/issues"
+  },
+  "homepage": "https://github.com/FuzzyAtish/ts-eslint-prettier-airbnb-starter#readme"
+}
